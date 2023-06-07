@@ -20,4 +20,7 @@ Revenue being the important factor in any systems calculating total revenue and 
 
 As the name suggests, booking rooms for students is the primary requirement for this system. we can book a room for students using stored proc will update  all the required table 
 
+![dmdd final](https://github.com/SaneelTare/Hostel-Management-System/assets/90349506/fea8ca09-5dd6-4973-9659-b6cab1920c13)
+
+
 
